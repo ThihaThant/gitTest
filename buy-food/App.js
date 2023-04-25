@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Text, View, StyleSheet } from 'react-native';
 import Constants from 'expo-constants';
-//Test lah lah lah lah hehee
+//Test lah lah lah lah heheeho
 // You can import from local files
 import AssetExample from './components/AssetExample';
 
